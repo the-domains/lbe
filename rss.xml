@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Homepages - Onlineshops - Facebook-Markting]]></title>
+        <description><![CDATA[Homepages - Onlineshops - Facebook-Markting]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 01 Apr 2016 10:34:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Das ist der erste Post]]></title>
+            <description><![CDATA[<article><h1>Das ist der erste Post</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1de05369-499a-4338-aaa5-8d674c1e166c.jpg"></article>]]></description>
+            <link>undefineddas-ist-der-erste-post/index.html</link>
+            <guid isPermaLink="false">9dab22f3-0fcb-46ba-a79a-ac6a7a954a4c</guid>
+            <pubDate>Fri, 01 Apr 2016 10:34:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
