@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Homepages - Onlineshops - Facebook-Markting]]></title>
         <description><![CDATA[Homepages - Onlineshops - Facebook-Markting]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lbe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 10:34:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Apr 2016 10:37:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lbe/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Das ist der erste Post]]></title>
             <description><![CDATA[<article><h1>Das ist der erste Post</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1de05369-499a-4338-aaa5-8d674c1e166c.jpg"></article>]]></description>
-            <link>undefineddas-ist-der-erste-post/index.html</link>
+            <link>https://thegrid.ai/lbe/das-ist-der-erste-post/index.html</link>
             <guid isPermaLink="false">9dab22f3-0fcb-46ba-a79a-ac6a7a954a4c</guid>
-            <pubDate>Fri, 01 Apr 2016 10:34:29 GMT</pubDate>
+            <pubDate>Fri, 01 Apr 2016 10:37:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
