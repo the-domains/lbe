@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-01T10:37:37.058Z'
-dateModified: '2016-04-01T10:34:32.433Z'
+datePublished: '2016-04-01T10:39:25.871Z'
+dateModified: '2016-04-01T10:37:39.496Z'
 title: Das ist der erste Post
 author: []
 sourcePath: _posts/2016-04-01-das-ist-der-erste-post.md
