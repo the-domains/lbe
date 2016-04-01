@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[LBE]]></title>
         <description><![CDATA[LBE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lbe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 10:19:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Apr 2016 10:20:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lbe/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Das ist der erste Versuch]]></title>
-            <description><![CDATA[<article><h1>Das ist der erste Versuch</h1><p>Gimme a first try</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d5aa679-5ca5-4490-9cf7-44f144c69404.jpg"></article>]]></description>
-            <link>undefineddas-ist-der-erste-versuch/index.html</link>
+            <description><![CDATA[<article><h1>Das ist der erste Versuch</h1><p>Gimme a first try</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d9eff8ea95b557d2b68fa01a0eb4dfeb2b0ebef.jpg"></article>]]></description>
+            <link>https://thegrid.ai/lbe/das-ist-der-erste-versuch/index.html</link>
             <guid isPermaLink="false">26b458ff-2149-4c84-b1c8-878fee90e1de</guid>
-            <pubDate>Fri, 01 Apr 2016 10:19:15 GMT</pubDate>
+            <pubDate>Fri, 01 Apr 2016 10:20:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
