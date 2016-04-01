@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Gimme a first try
-datePublished: '2016-04-01T10:24:13.530Z'
-dateModified: '2016-04-01T10:24:00.976Z'
-title: Das ist der erste Versuch
+datePublished: '2016-04-01T10:27:34.331Z'
+dateModified: '2016-04-01T10:24:25.118Z'
+title: 'Eine kleine Auflistung davon:'
 author: []
 sourcePath: _posts/2016-04-01-das-ist-der-erste-versuch.md
 published: true
@@ -26,7 +26,7 @@ _type: Article
 
 Die Information über unser Leistungsspektrum, was wir alles bieten and so on...
 
-Eine kleine Auflistung davon:
+# Eine kleine Auflistung davon:
 
 * Erstellung von Onlineshops
 
