@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Gimme a first try
-datePublished: '2016-04-01T10:27:34.331Z'
-dateModified: '2016-04-01T10:24:25.118Z'
+description: HIER ENTSTEHT ALSO DIE NEUE SEITE
+datePublished: '2016-04-01T10:28:45.219Z'
+dateModified: '2016-04-01T10:27:41.528Z'
 title: 'Eine kleine Auflistung davon:'
 author: []
 sourcePath: _posts/2016-04-01-das-ist-der-erste-versuch.md
