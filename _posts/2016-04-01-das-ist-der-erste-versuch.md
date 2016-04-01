@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Gimme a first try
-datePublished: '2016-04-01T10:19:15.550Z'
-dateModified: '2016-04-01T10:18:54.652Z'
+datePublished: '2016-04-01T10:20:44.796Z'
+dateModified: '2016-04-01T10:19:24.408Z'
 title: Das ist der erste Versuch
 author: []
+sourcePath: _posts/2016-04-01-das-ist-der-erste-versuch.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-01-das-ist-der-erste-versuch.md
-published: true
 url: das-ist-der-erste-versuch/index.html
 _type: Article
 
