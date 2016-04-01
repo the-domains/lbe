@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-01T10:34:29.772Z'
-dateModified: '2016-04-01T10:33:06.108Z'
+datePublished: '2016-04-01T10:37:37.058Z'
+dateModified: '2016-04-01T10:34:32.433Z'
 title: Das ist der erste Post
 author: []
+sourcePath: _posts/2016-04-01-das-ist-der-erste-post.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-01-das-ist-der-erste-post.md
-published: true
 url: das-ist-der-erste-post/index.html
 _type: Article
 
