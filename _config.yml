@@ -1,0 +1,28 @@
+name: LBE
+favicon: null
+layout_spectrum: 0.30690837651491165
+typography_spectrum: 0.48058956558816135
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.861806673463434
+  lightness: 0.40690488717518747
+  saturation: 0.4794632538687438
+  rhythmicContrast: 0.8058487749658525
+purpose: []
